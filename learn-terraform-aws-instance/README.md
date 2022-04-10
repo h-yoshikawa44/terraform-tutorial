@@ -13,3 +13,8 @@ terraform init
 ```
 terraform apply
 ```
+
+リソースの破棄
+```
+terraform destroy
+```
